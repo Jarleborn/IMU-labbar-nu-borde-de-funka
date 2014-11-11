@@ -1,0 +1,6 @@
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\bin\Debug\labb 2.exe.config
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\bin\Debug\labb 2.exe
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\bin\Debug\labb 2.pdb
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\obj\Debug\labb 2.csprojResolveAssemblyReference.cache
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\obj\Debug\labb 2.exe
+C:\Users\hj222hi\Documents\GitHub\IMU-Labbar\labb 2\labb 2\obj\Debug\labb 2.pdb
