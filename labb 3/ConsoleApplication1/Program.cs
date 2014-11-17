@@ -10,20 +10,32 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string numbers = "";
+            int numbers = 0;
+            int nextnumbers = 0;
             Console.WriteLine("Ange hur många numer som ska matas in:");
             int numberOfNumbers = int.Parse(Console.ReadLine());
 
             for (int i = 0; numberOfNumbers > i; i++)
             {
-                Console.WriteLine("Mata in numer {0}", i+1);
-                string holder = Console.ReadLine();
-                numbers += holder+";";
+                Console.WriteLine("Mata in numer {0}", i + 1);
+                int holder = int.Parse(Console.ReadLine());
+
+                if (holder > numbers && holder > nextnumbers)
+                {
+                    nextnumbers = numbers;
+                    numbers = holder;
+
+                }
+                else if (holder > nextnumbers)
+                {
+
+                    nextnumbers = holder;
+
+                }
             }
-            foreach (string item in numbers) { 
-            
-            }
-          
+            Console.WriteLine("Det näst största värdet är {0}", nextnumbers);
         }
+
+
     }
 }

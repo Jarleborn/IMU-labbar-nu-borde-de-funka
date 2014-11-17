@@ -11,7 +11,7 @@ namespace labb_2
         static void Main(string[] args)
         {
 
-            string numbers;
+            int numbers;
             int counteaven = 0;
             int countuneaven = 0;
             int countzero = 0;
@@ -20,28 +20,30 @@ namespace labb_2
                 Console.WriteLine("Stoppa in ett heltal");
                
 
-                numbers = Console.ReadLine();
-                int.Parse(numbers);
+                numbers = int.Parse(Console.ReadLine());
+              
 
-                foreach (int item in numbers)
+              
+                int[] arrs = Array.ConvertAll(numbers.ToString().ToArray(), x => (int)x - 48);
+                foreach (int item in arrs)
                 {
-                    switch (item % 3)
+                    if (item == 1 || item == 3 || item == 5 || item == 7 || item == 9)
                     {
-                        case 0:
-                            countzero++;
-                            break;
-                        case 1:
-                            countuneaven++;
-                            break;
-                        case 2:
-                            counteaven++;
-                            break;
+                       countuneaven++; // antal udda.
+                    }
+                    else if (item == 2 || item == 4 || item == 6 || item == 8)
+                    {
+                       counteaven++; // jämna
+                    }
+                    else
+                    {
+                        countzero++; // nollor
                     }
                 }
-
                 Console.WriteLine("Du har mattat in {0} jämnatal, {1} ojämnatal och {2} nollor", counteaven, countuneaven, countzero);
-
+                break;
             }
-        }
+            
+        } 
     }
 }
