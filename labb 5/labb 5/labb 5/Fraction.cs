@@ -85,4 +85,3 @@ namespace labb_5
             return String.Format("{0}:{1}", getNumerator, getDenominator);
         }
     }
-}
