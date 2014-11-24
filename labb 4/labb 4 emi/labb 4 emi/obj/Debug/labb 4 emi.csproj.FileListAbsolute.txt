@@ -4,3 +4,6 @@ C:\Users\hj222hi\Documents\GitHub\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi
 C:\Users\hj222hi\Documents\GitHub\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\obj\Debug\labb 4 emi.csprojResolveAssemblyReference.cache
 C:\Users\hj222hi\Documents\GitHub\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\obj\Debug\labb 4 emi.exe
 C:\Users\hj222hi\Documents\GitHub\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\obj\Debug\labb 4 emi.pdb
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\bin\Debug\labb 4 emi.exe.config
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\obj\Debug\labb 4 emi.exe
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 4\labb 4 emi\labb 4 emi\obj\Debug\labb 4 emi.pdb

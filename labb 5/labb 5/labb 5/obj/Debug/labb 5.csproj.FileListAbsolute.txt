@@ -1,3 +1,7 @@
 C:\Users\hj222hi\Documents\GitHub\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\bin\Debug\labb 5.exe.config
 C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\bin\Debug\labb 5.exe.config
 C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\obj\Debug\labb 5.csprojResolveAssemblyReference.cache
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\bin\Debug\labb 5.exe
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\bin\Debug\labb 5.pdb
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\obj\Debug\labb 5.exe
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 5\labb 5\labb 5\obj\Debug\labb 5.pdb

@@ -10,3 +10,6 @@ C:\Users\hj222hi\Documents\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplicatio
 C:\Users\hj222hi\Documents\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\hj222hi\Documents\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\hj222hi\Documents\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\hj222hi\Desktop\IMU-labbar-nu-borde-de-funka\labb 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

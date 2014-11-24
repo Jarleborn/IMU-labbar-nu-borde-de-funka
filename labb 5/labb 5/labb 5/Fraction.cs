@@ -75,9 +75,13 @@ namespace labb_5
 
         }
 
-        public bool isEqualTo()
+        public bool isEqualTo(Fraction a, Fraction b)
         {
-            throw new NotImplementedException();
+            if (a.getDenominator == b.getDenominator && a.getNumerator == b.getNumerator)
+            {
+                return true;
+            }
+            return false;
         }
 
         public override string ToString()
@@ -85,3 +89,4 @@ namespace labb_5
             return String.Format("{0}:{1}", getNumerator, getDenominator);
         }
     }
+}
